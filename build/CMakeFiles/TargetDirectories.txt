@@ -1,0 +1,3 @@
+/home/cykx/Desktop/learn-cmake-vscode/build/CMakeFiles/get_time.dir
+/home/cykx/Desktop/learn-cmake-vscode/build/CMakeFiles/edit_cache.dir
+/home/cykx/Desktop/learn-cmake-vscode/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/get_time.dir/main.cpp.o CMakeFiles/get_time.dir/SOURCE/get_time.cpp.o -o get_time 
